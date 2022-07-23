@@ -1,0 +1,31 @@
+﻿  kiero.cpp
+  main.cpp
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(32,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(32,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(32,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(32,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(48,6): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(48,6): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(48,10): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(48,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(49,6): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(49,6): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(49,8): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(49,8): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(50,8): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(50,8): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(50,14): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(50,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(51,8): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(51,8): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(51,12): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\VeMenu.h(51,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\CF\MenuD3D\MenuD3D\Menu\Menu_hook\main.cpp(36,3): warning C4552: '!': result of expression not used
+  Generating Code...
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating Code...
+  MenuD3D.vcxproj -> D:\CF\MenuD3D\MenuD3D\Menu\x64\Debug\MenuD3D.dll
