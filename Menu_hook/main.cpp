@@ -1,4 +1,10 @@
-﻿#include "IncludeAndLib.h"
+// Menu is coded by Minh Dat Hax
+// Menu run in x64 & x32bit
+// Thanks for using
+// My profile : https://github.com/MinhDatHax
+
+
+#include "IncludeAndLib.h"
 
 #ifdef _WIN64
 #define GWL_WNDPROC GWLP_WNDPROC
