@@ -4,6 +4,7 @@
 // Cài xong nhớ chỉnh phần Include và Library của Visual Studio vào thư mục "Include" của Microsoft DirectX SDK June 2010
 // Riêng về phần Library mọi người chạy 32 bit thì để ở thư mục "x86" của thư mục "Library"
 // Chạy 64 bit thì để ở thư mục "x64" của thư mục "Library"
+// Chạy 32 bit thì vẫn build được nhưng khi tôi inject thì nó bị lỗi :( vậy nên bạn hay dùng ở môi trường 64 bit
 
 ************************************ Menu was coded by Minh Dat ************************************
                                          Don't copyright
