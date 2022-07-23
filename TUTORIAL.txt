@@ -1,0 +1,9 @@
+// Bản Menu được làm bởi MINH ĐẠT
+// Menu sử dụng công nghệ hook : MinHook.h và đi kèm với Kiero hỗ trợ giúp cho hook file d3d9 dễ dàng hơn
+// Lưu ý sử dụng file d3dx9 nên mọi người cần phải cài Microsoft DirectX SDK June 2010
+// Cài xong nhớ chỉnh phần Include và Library của Visual Studio vào thư mục "Include" của Microsoft DirectX SDK June 2010
+// Riêng về phần Library mọi người chạy 32 bit thì để ở thư mục "x86" của thư mục "Library"
+// Chạy 64 bit thì để ở thư mục "x64" của thư mục "Library"
+
+************************************ Menu was coded by Minh Dat ************************************
+                                         Don't copyright
