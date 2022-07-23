@@ -53,8 +53,9 @@ void Menu(LPDIRECT3DDEVICE9 lmdDevice)                                   // Cái
 		// Menu nhỏ
 	}
 
-	ChucNang0(lmdDevice);
-	ChucNang1();
+	ChucNang0(lmdDevice);	 // Chạy biến ChucNang0(LPDIRECT3DDEVICE9 lmdDevice) bên ChucNangHack.h
+	ChucNang1();             // Chạy biến ChucNang1() bên ChucNangHack.h
+	
 	ChaylaiPhongChu();        // Chạy lại phông chữ
 
 
@@ -73,8 +74,8 @@ void MenuChinh(LPDIRECT3DDEVICE9 lmdDevice)
 	VeChu(a + e + 10, b + e + 6, "Menu hack by Minh Dat", Vang);    // Tiêu đề menu
 
 	ThemItem("Tam ao", 1, lmdDevice, Items[0]);                // Đây là các chức năng để mình chọn đó
-	ThemNhieuItem("Chay nhanh SHIFT", 2, lmdDevice, Items[1]);                   // Ở 2 cái ThemItem đấy có thấy số 1 và 2 không ? Đó chính là thứ tự của chức năng đó
-	ThemItem("Menu nho", 4, lmdDevice, Items[2]);
+	ThemNhieuItem("Chuc Nang 1", 2, lmdDevice, Items[1]);                   // Ở 2 cái ThemItem đấy có thấy số 1 và 2 không ? Đó chính là thứ tự của chức năng đó
+	ThemItem("Menu nho", 3, lmdDevice, Items[2]);
 	//=====================================================================================
 	ChaylaiPhongChu();
 }
