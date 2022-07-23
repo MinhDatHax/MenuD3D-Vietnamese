@@ -13,34 +13,29 @@ void ChucNang0(LPDIRECT3DDEVICE9 lmd)
 
 void ChucNang1()
 {
-	float tocdochay = 1.0f;
-	DWORD64 cns;
-	DWORD64 CShell = (DWORD64)GetModuleHandleA("CShell_x64.dll");
-	cns = *(DWORD64*)(CShell + 0x21EFF88);
-	float backup = *(float*)(cns + 0x8);
-
+	
 	if (Items[1].soItem == 2)
 	{
-		*(float*)(cns + 0x8) = tocdochay * 2; // Chỉnh 10.0f càng lên cao càng chạy nhanh (Bằng phím SHIFT)
+		
 	}
 	if (Items[1].soItem == 3)
 	{
-		*(float*)(cns + 0x8) = tocdochay * 3; // Chỉnh 10.0f càng lên cao càng chạy nhanh (Bằng phím SHIFT)
+		
 	}
 	if (Items[1].soItem == 4)
 	{
-		*(float*)(cns + 0x8) = tocdochay * 4; // Chỉnh 10.0f càng lên cao càng chạy nhanh (Bằng phím SHIFT)
+		
 	}
 	if (Items[1].soItem == 5)
 	{
-		*(float*)(cns + 0x8) = tocdochay * 5; // Chỉnh 10.0f càng lên cao càng chạy nhanh (Bằng phím SHIFT)
+		
 	}
 	if (Items[1].soItem == 6)
 	{
-		*(float*)(cns + 0x8) = tocdochay * 6; // Chỉnh 10.0f càng lên cao càng chạy nhanh (Bằng phím SHIFT)
+		
 	}
-	if (Items[1].soItem == 1)
+	if (Items[1].soItem == 1) // Tắt
 	{
-		*(float*)(cns + 0x8) = backup;
+		
 	}
 }
